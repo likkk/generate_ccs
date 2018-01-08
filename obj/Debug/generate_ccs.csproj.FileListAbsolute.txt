@@ -1,0 +1,6 @@
+E:\project\me\generate_ccs\generate_ccs\bin\Debug\generate_ccs.exe.config
+E:\project\me\generate_ccs\generate_ccs\bin\Debug\generate_ccs.exe
+E:\project\me\generate_ccs\generate_ccs\bin\Debug\generate_ccs.pdb
+E:\project\me\generate_ccs\generate_ccs\obj\Debug\generate_ccs.csproj.CoreCompileInputs.cache
+E:\project\me\generate_ccs\generate_ccs\obj\Debug\generate_ccs.exe
+E:\project\me\generate_ccs\generate_ccs\obj\Debug\generate_ccs.pdb
